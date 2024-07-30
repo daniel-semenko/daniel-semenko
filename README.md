@@ -1,5 +1,5 @@
-Hi there! I'm Daniel (he/him), a college student at Washington State University with an interest in App/Web Development and Data Science.
-I have experience with mobile and web development technologies that utilize HTML and CSS, along with more hands-on experience with frameworks like Flutter and Dart. I also have experience with data visualization, analysis, and processing, with broad expertise with R and Python.
+Hi there! I'm Daniel (he/him), a recent graduate from Washington State University with an interest in App/Web Development and Data Science.
+I have experience with mobile and web development technologies that utilize HTML/CSS, Javascript and ReactJS, along with frameworks like Flutter and Dart. I also have experience with data visualization, analysis, and processing, with broad expertise with R and Python.
 I'm committed to continuous learning and constantly exploring new frameworks and other development technologies and best practices. I believe in leveraging my strong foundation and eagerness to learn and improve to develop and deliver great applications.
 📫 You can reach me by emailing me at daniel.semenko@gmail.com
 
